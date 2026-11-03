@@ -1,0 +1,13 @@
+torch==2.4.1
+torchvision==0.19.1
+numpy==1.23.5
+numba==0.56.4
+zarr==2.12.0
+numcodecs==0.12.1
+hydra-core==1.2.0
+omegaconf==2.2.3
+diffusers==0.11.1
+huggingface_hub==0.25.2
+opencv-python-headless==4.10.0.84
+pandas==2.0.3
+scipy==1.13.1
