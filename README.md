@@ -18,13 +18,14 @@
 
 | Demo | Description | Success | Demo | Description | Success |
 |:---:|:---|:---:|:---:|:---|:---:|
-| [![Failure 1](GIF_FAILURE_1_URL)](https://github.com/user-attachments/assets/66a6ea00-8fc0-4c67-a09f-8cc1a7195922) | Failure case 1 - Analysis pending | False | [![Failure 2](GIF_FAILURE_2_URL)](https://github.com/user-attachments/assets/a7150198-76ad-4b98-98d9-6d72919e5669) | Failure case 2 - Analysis pending | False |
+| [![Failure 1](GIF_FAILURE_1_URL)](https://github.com/user-attachments/assets/66a6ea00-8fc0-4c67-a09f-8cc1a7195922) | 未能将红色方块置于绿色方块之上，之后寻找不到红色方块| False | [![Failure 2](GIF_FAILURE_2_URL)](https://github.com/user-attachments/assets/a7150198-76ad-4b98-98d9-6d72919e5669) | 触碰到绿色方块之后下一步推理始终不变（日志：[PIPER7] step=500 target=[-0.1037  1.9095 -1.2354  0.0267  0.7709 -0.1186] gripper=0.647
+[PIPER7] step=600 target=[-0.0835  1.895  -1.1746  0.0236  0.7361 -0.099 ] gripper=0.606| False |
 
 ### Failure Case 3
 
 | Demo | Description | Success |
 |:---:|:---|:---:|
-| [![Failure 3](GIF_FAILURE_3_URL)](https://github.com/user-attachments/assets/e9641125-7b2e-4265-a5a0-8686a08ec2c0) | Failure case 3 - Analysis pending | False |
+| [![Failure 3](GIF_FAILURE_3_URL)](https://github.com/user-attachments/assets/e9641125-7b2e-4265-a5a0-8686a08ec2c0) | 未能寻找到红色方块 | False |
 
 ---
 
