@@ -24,8 +24,7 @@
 
 | Demo | Description | Success |
 |:---:|:---|:---:|
-| [![Failure 3](GIF_FAILURE_3_URL)](https://github.com/user-attachments/assets/a7150198-76ad-4b98-98d9-6d72919e5669) | 触碰到绿色方块之后下一步推理始终不变（日志：[PIPER7] step=500 target=[-0.1037  1.9095 -1.2354  0.0267  0.7709 -0.1186] gripper=0.647
-[PIPER7] step=600 target=[-0.0835  1.895  -1.1746  0.0236  0.7361 -0.099 ] gripper=0.606 | False |
+| [![Failure 3](GIF_FAILURE_3_URL)](https://github.com/user-attachments/assets/a7150198-76ad-4b98-98d9-6d72919e5669) | 触碰到绿色方块之后下一步推理始终不变（日志：[PIPER7] step=500 target=[-0.1037  1.9095 -1.2354  0.0267  0.7709 -0.1186] gripper=0.647[PIPER7] step=600 target=[-0.0835  1.895  -1.1746  0.0236  0.7361 -0.099 ] gripper=0.606 | False |
 
 ---
 
